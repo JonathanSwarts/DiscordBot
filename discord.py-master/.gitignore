@@ -1,0 +1,5 @@
+*.json
+*.pyc
+*.log
+docs/_build
+*.buildinfo
